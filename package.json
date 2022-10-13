@@ -1,0 +1,23 @@
+{
+  "name": "academy-api-billip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipwalton123/academy-api-billip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipwalton123/academy-api-billip/issues"
+  },
+  "homepage": "https://github.com/philipwalton123/academy-api-billip#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
